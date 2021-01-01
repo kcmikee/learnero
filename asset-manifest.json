@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/learnero/static/css/main.a2900c91.chunk.css",
-    "main.js": "/learnero/static/js/main.fce1ebc4.chunk.js",
-    "main.js.map": "/learnero/static/js/main.fce1ebc4.chunk.js.map",
+    "main.js": "/learnero/static/js/main.74d8d92f.chunk.js",
+    "main.js.map": "/learnero/static/js/main.74d8d92f.chunk.js.map",
     "runtime-main.js": "/learnero/static/js/runtime-main.540959ac.js",
     "runtime-main.js.map": "/learnero/static/js/runtime-main.540959ac.js.map",
     "static/js/2.66505e96.chunk.js": "/learnero/static/js/2.66505e96.chunk.js",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.540959ac.js",
     "static/js/2.66505e96.chunk.js",
     "static/css/main.a2900c91.chunk.css",
-    "static/js/main.fce1ebc4.chunk.js"
+    "static/js/main.74d8d92f.chunk.js"
   ]
 }
