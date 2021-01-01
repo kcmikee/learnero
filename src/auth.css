@@ -20,28 +20,27 @@
 }
 /* *******NavBar****** */
 .wrapper {
-  display: grid;
-  grid-template-columns: 1fr 2.5fr 0.5fr;
-  height: 80px;
+  height: 50px;
   background-color: #151515;
   align-items: center;
   height: 110px;
+  flex-direction: row;
 }
 
 .logoContainer{
-    display: flex;
     height: 100%;
-    align-items: center;
     margin-left: 40px;
     align-items: center;
+    /* margin-top: 10px; */
 }
 
 .logo{
-    background-image:url('https://secureservercdn.net/72.167.241.46/znf.a99.myftpupload.com/wp-content/uploads/2020/10/learnero-1.png');
-    background-repeat:no-repeat;
-    background-size:contain;
-    height:40%;
-    width:80%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height:auto;
+    width:50%;
+    
 }
 
 .link{
@@ -70,6 +69,7 @@
 
 /* ********background image****** */
 .bg{
+    display:flex;
     background-color: #151515;
     display: flex;
     align-items: center;
@@ -79,8 +79,9 @@
 }
 
 .bannerimg{
-    width: 100%;
-    height:80%
+    max-width: 100%;
+    height:auto;
+    /* object-fit: cover; */
 }
 
 /* ******motivation****** */
