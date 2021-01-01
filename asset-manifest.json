@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/learnero/static/css/main.29f9a799.chunk.css",
+    "main.js": "/learnero/static/js/main.268b87aa.chunk.js",
+    "main.js.map": "/learnero/static/js/main.268b87aa.chunk.js.map",
+    "runtime-main.js": "/learnero/static/js/runtime-main.443d7f6b.js",
+    "runtime-main.js.map": "/learnero/static/js/runtime-main.443d7f6b.js.map",
+    "static/js/2.15276de8.chunk.js": "/learnero/static/js/2.15276de8.chunk.js",
+    "static/js/2.15276de8.chunk.js.map": "/learnero/static/js/2.15276de8.chunk.js.map",
+    "static/js/3.07153a46.chunk.js": "/learnero/static/js/3.07153a46.chunk.js",
+    "static/js/3.07153a46.chunk.js.map": "/learnero/static/js/3.07153a46.chunk.js.map",
+    "index.html": "/learnero/index.html",
+    "static/css/main.29f9a799.chunk.css.map": "/learnero/static/css/main.29f9a799.chunk.css.map",
+    "static/js/2.15276de8.chunk.js.LICENSE.txt": "/learnero/static/js/2.15276de8.chunk.js.LICENSE.txt",
+    "static/media/Frame-12-449x371.aee5eff6.png": "/learnero/static/media/Frame-12-449x371.aee5eff6.png",
+    "static/media/Group-297.ca7d4da5.png": "/learnero/static/media/Group-297.ca7d4da5.png",
+    "static/media/Group-299.1c8aa53a.png": "/learnero/static/media/Group-299.1c8aa53a.png",
+    "static/media/Group-300-1-1024x518.3e2ceee7.png": "/learnero/static/media/Group-300-1-1024x518.3e2ceee7.png",
+    "static/media/footer1.0256d07d.jpg": "/learnero/static/media/footer1.0256d07d.jpg",
+    "static/media/grid1.8b4a4d5e.jpeg": "/learnero/static/media/grid1.8b4a4d5e.jpeg",
+    "static/media/grid2.a0ffcbc5.jpg": "/learnero/static/media/grid2.a0ffcbc5.jpg",
+    "static/media/grid3.8797ccf4.jpg": "/learnero/static/media/grid3.8797ccf4.jpg",
+    "static/media/header-image.6a62818a.png": "/learnero/static/media/header-image.6a62818a.png",
+    "static/media/learnero.7b14171c.jpeg": "/learnero/static/media/learnero.7b14171c.jpeg",
+    "static/media/music6.a81ab679.jpg": "/learnero/static/media/music6.a81ab679.jpg",
+    "static/media/photo-1512686096451-a15c19314d59.a0b50b7c.jpeg": "/learnero/static/media/photo-1512686096451-a15c19314d59.a0b50b7c.jpeg",
+    "static/media/phoyo.56604ef5.jpeg": "/learnero/static/media/phoyo.56604ef5.jpeg",
+    "static/media/php.8d1d207b.jpeg": "/learnero/static/media/php.8d1d207b.jpeg",
+    "static/media/price1.b7205402.png": "/learnero/static/media/price1.b7205402.png",
+    "static/media/price2.f5edc821.png": "/learnero/static/media/price2.f5edc821.png",
+    "static/media/price3.3cc72728.png": "/learnero/static/media/price3.3cc72728.png",
+    "static/media/py.27e8ca3c.jpg": "/learnero/static/media/py.27e8ca3c.jpg",
+    "static/media/set1.d19dfad5.jpeg": "/learnero/static/media/set1.d19dfad5.jpeg",
+    "static/media/set2.30456f38.jpg": "/learnero/static/media/set2.30456f38.jpg",
+    "static/media/set3.650804de.jpg": "/learnero/static/media/set3.650804de.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.443d7f6b.js",
+    "static/js/2.15276de8.chunk.js",
+    "static/css/main.29f9a799.chunk.css",
+    "static/js/main.268b87aa.chunk.js"
+  ]
+}
